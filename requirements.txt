@@ -1,0 +1,8 @@
+# PyTorch is installed separately by setup.bat (CUDA build from download.pytorch.org)
+transformers>=4.46
+accelerate
+peft
+bitsandbytes
+datasets
+gradio>=5
+pandas
